@@ -1,0 +1,1 @@
+fromelf --bin ./ADC_Sensor_Display.axf -o ./ADC_Sensor_Display.bin

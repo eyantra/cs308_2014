@@ -1,0 +1,115 @@
+doctype
+html
+    head
+        title= "Smart Home - Controls"
+        link(rel='stylesheet', href='/css/main.css')
+        link(rel='stylesheet', href='/css/bootstrap.min.css')
+        link(rel='stylesheet', href='/css/bootstrap-switch.min.css')       
+    body
+
+        div(class="container")
+            div(class="header row")
+                h1="SMART HOME"
+
+            div(class="row")    
+                div(class="col-sm-7")    
+                    br
+                    br             
+                    div(class="alert alert-warning",id="socket-error",style="display:none")                
+                    ul(class="nav nav-tabs")
+                        each val, index in switchlist
+                            
+                            li(class=(index==0?'active':''),id="li-room-"+val.room_id)
+                                a(href="#room"+val.room_id,data-toggle="tab")=val.room_name                            
+                    div(class="tab-content")
+                        each val, index in switchlist
+                            div(id='room'+val.room_id,class="tab-pane "+(index==0?'active':''),data-room-id=val.room_id)
+                                button(class="switch-edit btn btn-default pull-right", data-current-state="edit")
+                                    span(class="glyphicon glyphicon-edit")  Edit
+
+                                table(class="table",id="table-room-"+val.room_id)
+                                    each myswitch, tempindex in val
+                                        tr
+                                            td(class="switch-name-"+val.room_id,data-switch-id=myswitch.id)=myswitch.name                                
+                                            td(class="switch-auto",data-switch-id=myswitch.id)
+                                                button(class="attach-sensors-btn",data-switch-id = myswitch.id,data-room-id=val.room_id,data-room-name=val.room_name,data-switch-name=myswitch.name) Configure Auto
+                                            td(class="switch-button")
+                                                if myswitch.state
+                                                    input(data-switch-id=myswitch.id,id="switch-"+val.room_id+"-"+myswitch.id,type="checkbox",data-toggle="switch",checked,class="on-toggle-io")
+                                                else
+                                                    input(data-switch-id=myswitch.id,id="switch-"+val.room_id+"-"+myswitch.id,type="checkbox",data-toggle="switch",class="on-toggle-io")
+
+                div(class="col-sm-5")
+                    br
+                    br
+                    button(type="button",class="btn",id="discover-devices") Discover Devices
+                    br
+                    br
+                    div(id="sensors")
+                        table(class="table")
+                            tr
+                                th(class="sensor-name-heading") Name
+                                    button(class="btn",id="sensors-edit",data-current-state="edit")
+                                        span(class="glyphicon glyphicon-edit")
+                                th(class="sensor-room-name") Room
+                                th() Value
+                            each val, index in sensorlist
+                                tr(data-room-id=val.room_id)
+                                    td(class="sensor-name",data-sensor-id=val.sensor_id,data-sensor-room-id=val.room_id) #{val.sensor_name}
+                                    td(class="sensor-room-name room-name-marker-"+val.room_id) #{val.room_name}
+                                    td
+                                        div(class="progress")
+                                            div(class="progress-bar",data-sensor-id=val.sensor_id,role="progressbar",aria-valuenow=val.value,aria-valuemin="0", aria-valuemax="255",style="width: "+parseFloat(val.value)/2.55+"%;")=val.value                                                
+        div(id="attach-sensor-modal",class="modal fade" tabindex="-1" role="dialog")
+            div(class="modal-dialog")
+                div(class="modal-content")
+                    div(class="modal-header")
+                        button(type="button",class="close",data-dismiss="modal",aria-hidden="true") &times;
+                        h4(class="modal-title") Configure Auto On-Off        
+                    div(class="modal-body")
+              
+                        div(id="auto-onoff-div",style="text-align:center")
+                            span Auto Control - 
+                            span(id="auto-onoff-span")
+                                input(id="auto-onoff-input",type="checkbox",data-toggle="switch")
+                        br
+                        br
+                        table(id="switch-sensor-table",style="display:none;",class="table")                           
+                            tr
+                                td Switch Name
+                                td(id="switch-name-td")
+                            tr
+                                td Switch Room
+                                td(id="switch-room-td")
+                            tr
+                                td Sensor Room
+                                td(id="sensor-room-name-td")
+                                    select(id="sensor-room-select")
+                                        each val, index in switchlist
+                                            option(class="room-option-class",value=val.room_id)=val.room_name
+                            tr
+                                td Sensor Name
+                                td(id="sensor-name-td")
+
+                            tr
+                                td Sensor Bottom Limit
+                                td
+                                    input(id="sensor-bottom-input",type="text")
+                            tr
+                                td Sensor Top Limit
+                                td
+                                    input(type="text",id="sensor-top-input")
+                            tr
+                                td Switch In Limit status
+                                td
+                                    input(id="switch-in-limit-value",type="checkbox",checked,data-toggle="switch")                        
+                    div(class="modal-footer")
+                        button(type="button",class="btn btn-default",data-dismiss="modal") Close
+                        button(type="button",class="btn btn-primary",id="save-sensor-map-btn",style="display: none;") Save changes                                  
+                   
+
+        script(src='/js/jquery-2.1.0.min.js')
+        script(src='/js/bootstrap.min.js')
+        script(src='/js/bootstrap-switch.min.js')
+        script(src='/socket.io/lib/socket.io.js')
+        script(src='/js/main.js')

@@ -1,0 +1,18 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Academics\ERTS\Project\Object_Classifier\Object_Classifier.uvproj
+Project File Date:  04/18/2014
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+compiling Lcd.c...
+linking...
+Program Size: Code=14464 RO-data=176 RW-data=4 ZI-data=1292  
+FromELF: creating hex file...
+User command #1: fromelf --bin .\Object_Classifier.axf -o .\Object_Classifier.bin
+"Object_Classifier.axf" - 0 Error(s), 0 Warning(s).

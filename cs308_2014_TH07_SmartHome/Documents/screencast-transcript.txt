@@ -1,0 +1,36 @@
+Transcript of screen cast:
+
+-   Hello Guys, Myself Rahul gupta and this is the screen cast of our Project "Smart Home"
+-	Team for this project is: 
+	Rahul Gupta
+	Prakhar Jain
+	Saket Tiwari 
+	Utkarsh Diwaker
+
+There are three parts which need to be configured. First is Xbee which is used for wireless communication, second is Arduino Uno board which is used to control the individual switch board) and the last one is Raspberry Pi which is working as a central web server. 
+
+First of all download our project code and unzip it. 
+
+Now we will look at how to configure xbee device:
+In our model, there are 2 differently configured xbee's, first is working as coordinator and second is working as a simple xbee node. 
+To configure these, first of all download and install the XCTU software from the site digi.com. Now, open XCTU software and connect xbee using USB module. It will display the port to which xbee is connected. After that, go to modem configuration tab. In this tab, first click on read, so that all the current settings will get displayed. In this, change the PAN-id to a particular number. Remember this number because the same PAN-id number has to be to be used for all the Xbee's. Now, set the destination address to 0 and set it as coordinator. Also note down the serial number low, which is required for configuring other xbee's. Now click on write to write this configuration to xbee. 
+After this connect other xbee and follow the same steps till configuartion windows. In this keep the default settings and change PAN id to same number ad destination address to the one which we noted down. Similary setup all the remaining xbees.
+
+Now, Lets move to the configuration of arduino:
+First connect arduino to PC using USB cable and open arduino IDE, which can be downloaded from website www.arduino.cc . 
+Now open the arduino code file from the code files downloaded. In this configure total number of switches and sensors attached to arduino and specify the pins to which switchs and sensors are attached and to which pins outputs are attached. Change the value of device-id (Remember this needs to be unique for each arduino/switchboard in the system and should lie in 0-255), better start from 1,2,3 and go on. Now select on which port arduino is connected and also select the board type, select the board type you are using. 
+
+Now we need to configure R-Pi
+Attach the raspbian installed R-Pi to the network and also note down the ip address(which can be configured using monitor or looking into the devices attached to you router(if using dhcp)).
+
+Use any ssh client and ssh into R-Pi. Download the code of project in raspberry and unzip it. We need to install two thing on raspberry, Mysql and Nodejs. 
+Mysql can be installed using  command `sudo apt-get install mysql-server`. We have alreay install it and during the installation it will ask for the root password, provide any password you like. 
+After installation open mysql console using 'mysql -u root -p' and provide password. Enter the sql query `create  database smarthome` and exit from shell. 
+Move to the directory where code is downloaded. You can find smarthome.sql in the directory which is the database dump. Here run commad `mysql -u root -p smarthome < smarthome.sql`. This will create appropriate tables in the database. 
+
+Next is the installation of Node JS. First we need to download the binary of node js from node js website and configure it using commands provided in readme file. 
+Now connect xbee configured as coordinator to R-PI and after connection find out the destination to which XBee is connected.
+After this go to the directory Node in the downloaded code and open index.js, in this edit server username and password and path to the xbee connected. 
+Now run npm install which will install all the required node modules. This will take a while. after this run node index.js and this will start a web server at port 3700. 
+
+This is all you need to configure. Thank you for watching  

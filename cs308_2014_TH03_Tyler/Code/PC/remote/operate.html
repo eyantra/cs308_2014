@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <title>Tyler Bot Management Interface</title>
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/yeti/bootstrap.min.css">
+    </head>
+    <body>
+        <div class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a href="/" class="navbar-brand">Tyler Dashboard</a>
+                    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="navbar-collapse collapse" id="navbar-main">
+                    <ul class="nav navbar-nav"></ul>
+                    <ul class="nav navbar-nav navbar-right"></ul>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="page-header" id="banner">
+                <div class="row">
+                    <div class="col-sm-9 col-xs-6">
+                        <br/>
+                        <h1>Tyler Bot <span id="botId"></span></h1>
+                        <p class="lead">Bot Management Interface</p>
+                    </div>
+                    <div class="col-sm-3 col-xs-6 text-right">
+                        <br/>
+                        <br/>
+                        <a href='#' id='startvideo' class='btn btn-lg btn-primary'>Start Video</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div id='videos'>
+                        <video id='localVideo' autoplay muted style='display: none'></video>
+                        <video id='remoteVideo' autoplay></video>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+    <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src='/socket.io/socket.io.js'></script>
+    <script src='/static/js/lib/adapter.js'></script>
+    <script src='/static/js/main.js'></script>
+</html>

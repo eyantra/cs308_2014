@@ -1,0 +1,58 @@
+######### 2014-CS308 ############
+########### TH-07 ###############
+
+######### Students ##############
+Rahul Gutpta    - 100050086 
+Prakhar Jain    - 100050024
+Saket Tiwari    - 100050075
+Utkarsh Diwaker - 100050087
+################################
+
+Title - Smart Home 
+
+##### Instructions to setup ####
+1) Setup of Xbee's
+- 	First we need to set PAN ID of all the xbees, which should be same for all of them. 
+	Any number will work as ID.
+- 	One xbee works as coordinator which is attached to Raspberry Pi OR any other web server.
+	In this set destination address to 0, which means broadcast and mode to coordinator. 
+- 	In other xbees set destination address to the address of coordinator.
+
+2) Setup Arduino
+- 	You will need to export the code of arduino UNO board.
+- 	Before uploading ensure that xbee is removed from pin 1 and 0 are removed as these pins 
+	are used to programm the board also.
+-	Before uploading set the number of switches and there respective pin ids, number of sensors
+	with there pin ids and output pin ids. Switches can't be more than 6 in Arduino uno but 
+	bugger boards can have more than 6.
+
+3) Setup of Raspberry Pi / Webserver
+-	Attach the coordinator xbee to the server via usb and note down the location.
+	Location will be of the type "/dev/ttyUSB0". And can be found using command `dmesg | grep tty`
+	and look for the recently attached devices.
+-	Install mysql server on the R-Pi and create a database. After that imprt the database file named
+	'smarthome.sql' to this database.
+-	Install the nodeJs on the R-pi. You can download nodeJs from : 
+	http://nodejs.org/dist/v0.10.24/node-v0.10.24-linux-arm-pi.tar.gz. And run the following command 
+	
+	tar xvzf node-v0.10.24-linux-arm-pi.tar.gz
+	sudo cp -r node-v0.10.24-linux-arm-pi/* /opt/node
+
+	After that edit '/etc/profile' and following lines before `export` command
+	NODE_JS_HOME="/opt/node"
+	PATH="$PATH:$NODE_JS_HOME/bin"
+
+	* NodeJS for any platform can be downloaded from http://nodejs.org/
+-	Setup of node server
+	-	Open the file index.js in the folder named Node
+	-	Edit the `sqlInfo` variable with DB name, DB user and DB password
+	-	Edit the `xbee_path` variable to the path of xbee connected to the server
+	-	Change the port number in port variable (no need to change this), if you want ay specific 
+		port for the webserver
+-	Run it using `node index.js`
+
+
+##### Youtube link to screen cast #####
+
+
+

@@ -1,0 +1,53 @@
+.header{
+	height:100px;
+	margin-bottom: 10px;
+	background: #D9EAFA;
+	border-radius: 0px 0px 15px 15px;
+}
+.header h1{
+	font-size: 50px;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+
+@media all and (max-width: 700px){
+	.header h1{
+		font-size: 50px;
+		text-align: center;
+		margin-left: 0px;
+	}
+}
+
+.switch-button{
+	width:150px;
+}
+.switch-name{
+	padding-left: 35px !important;
+}
+
+.switch-name input{
+	width:auto;
+}
+
+.switch-auto{
+	width:150px;
+}
+
+.sensor-name{
+	width:120px;
+}
+
+.sensor-room-name{
+	width: 120px;
+}
+.switch-edit {	
+	margin-top: 10px;
+	margin-bottom: 10px !important;
+	margin-right: 50px;
+}
+
+
+#sensors-edit{
+	padding: 0 3px 0 3px;
+	margin-left: 10px;
+}

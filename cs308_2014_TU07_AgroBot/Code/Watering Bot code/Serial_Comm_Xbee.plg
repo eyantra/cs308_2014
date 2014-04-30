@@ -1,0 +1,20 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\kanishak\Desktop\ERTS_TU7_Final\TU-7 Code\Watering Bot code\Serial_Comm_Xbee.uvproj
+Project File Date:  01/28/2014
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+compiling Lcd.c...
+linking...
+Program Size: Code=6320 RO-data=32 RW-data=52 ZI-data=1332  
+FromELF: creating hex file...
+User command #1: fromelf --bin .\Serial_Comm_Xbee.axf -o .\Serial_Comm_Xbee.bin
+"Serial_Comm_Xbee.axf" - 0 Error(s), 0 Warning(s).
+Clean started: Project: 'Serial_Comm_Xbee'
+   deleting intermediate output files for target 'Target 1'

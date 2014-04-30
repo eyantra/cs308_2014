@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "startup.o" "buzzer.o" "lcd.o" "uartisr.o" "tasks.o" "queue.o" "list.o" "heap_2.o" "port.o" ".\portasm.o" --strict --scatter "test_freertos.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\test_freertos.map" -o "test_freertos.axf"

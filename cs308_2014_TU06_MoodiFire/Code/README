@@ -1,0 +1,29 @@
+Hardware Requirements 
+	One Firebird V Atmega 2560 robot 
+	A robotic arm attached to Firebird V robot 
+	One Microsoft XBox Kinect connected to a computer through USB 
+	Two XBee modules: one for the robot and another for the computer 
+	Line follower 2D space 
+	Laptop 
+
+Software Requirements 
+	Keil 
+	Kinect SDK v1.8 
+	Microsoft Visual Studio with SP I 
+	AVR Studio 
+	WinAVR 
+
+
+
+
+Folder Structure
+
+Upload the hex file - "White_Line_Following" from Line Following/default folder in the bot after setting up the arm.
+
+Main has the following Folders:
+
+1. FaceTracking Basic WPF - GUI
+2. Microsoft Kinect Toolkit - Backend Library
+3. Microsoft Kinect Toolkit Facetracking - Expression Detection Algorithm
+
+Open FaceTracking Basic WPF in Visual Studio 2010 with SP 1 installed. Run the project, once the kinnect and a Zigbee is connected.

@@ -1,0 +1,7 @@
+Main has the following Folders:
+
+1. FaceTracking Basic WPF - GUI
+2. Microsoft Kinect Toolkit - Backend Library
+3. Microsoft Kinect Toolkit Facetracking - Expression Detection Algorithm
+
+Open FaceTracking Basic WPF in Visual Studio 2010 with SP 1 installed. Run the project, once the kinnect and a Zigbee is connected.

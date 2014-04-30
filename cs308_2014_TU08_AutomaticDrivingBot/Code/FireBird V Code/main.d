@@ -1,0 +1,10 @@
+main.o: main.c
+main.o: C:\Keil\ARM\INC\Philips\lpc214x.h
+main.o: C:\Keil\ARM\RV31\INC\math.h
+main.o: C:\Keil\ARM\RV31\INC\stdlib.h
+main.o: C:\Keil\ARM\RV31\INC\string.h
+main.o: defines.h
+main.o: lcd.h
+main.o: queue.h
+main.o: C:\Keil\ARM\RV31\INC\stdio.h
+main.o: stack.h

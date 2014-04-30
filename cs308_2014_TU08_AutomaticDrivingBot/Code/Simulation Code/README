@@ -1,0 +1,17 @@
+g++ main.cpp
+./a.out
+
+Files:
+
+main.cpp : The code for the simulation containing the main function, vehicle classes.
+bot_data.txt: This is the file from which main.cpp reads the data about the arena.
+First line contains x_length and y_length of the arena
+Second line has coordinates for the charging doc
+The next x_lenght lines have values of each coordinate
+bot_instructions: This is the file from which main.cpp reads instructions to bots
+first line contains total number of bots to be created and total number of instructions
+next instruction lines contains instructions for each specific bot of form a,b,c,d
+a - bot number
+b - instruction number
+c - x_cord
+d - y_cord

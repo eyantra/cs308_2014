@@ -1,0 +1,28 @@
+2014-cs308
+
+Group code: TU-10
+Group name: Pool Off
+
+Group Members:
+Nikunj Saunshi (100050007)
+Omkar Thakoor (100050009)
+Diksha Meghwal (100050039)
+Shina Johri (100050048)
+
+Project Title: Pool Bot
+
+
+----- Instructions
+
+- Requirements: 
+OS: Windows 7/8
+Softwares installed: Keil uvision 4, Matlab, XCTU
+
+- Connect the USB Camera and the XigBee to the laptop.
+- Open the project in the folder FB5 ARM using Keil uvision 4. Build the project by pressing F7 and load the binary file created into the FB5 bot.
+- Open the file image_processing.m using the Matlab GUI. 
+	- Run the code by pressing F5. Make sure that there is nothing on the arena, neither the bot, nor the ball.
+	- The execution stops for 10 seconds which is for the user to place the bot and the ball randomly in the arena.
+
+
+Youtube link: https://www.youtube.com/watch?v=Va7vNkhz08c&feature=youtu.be

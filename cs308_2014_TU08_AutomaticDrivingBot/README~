@@ -1,0 +1,29 @@
+PROJECT:  Automatic Driving Bot
+TEAM NAME:  Pulp Coding (TU-08)
+
+TEAM MEMBERS:
+    Vishnu Vardhan(100050066)
+    Priyank Chhipa(100050034)
+    Chandan Kumar(100050059)
+    Anirudh D(100050065)
+
+
+PRE-REQUISITES:
+1. 1 FireBird V bot
+2. 1 laptop with Python installed
+3. XBee module (paired with the one on the bot)
+
+PLATFORMS USED:
+1. FirBird V bot
+2. Python
+3. Keil Uvision IDE (for editing)
+
+
+INSTALLATION INSTRUCTIONS:
+1. Compile the Keil Project and paste the bin file to a FireBird V bot.
+2. Connect a XBee module to a laptop using USB (This XBee module has to be paired with that on the bot).
+3. Put the bot on a corner coordinate (0,0) with the whole grid on its right front portion. For a better idea, see the accompanied video.
+4. Start the Python script present in "Python Code" directory. 
+5. Switch on the bot. It will map the whole grid, and stop. 
+6. Input target coordinates (where you want to move the bot) one by one through the python console (first x and then y).
+7. The bot moves to the specified destination using shortest available path (and avoiding collisions).

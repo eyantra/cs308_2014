@@ -1,0 +1,20 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\PulkitBansal\Downloads\5_ADC_Sensor_Display_on_LCD (1)\5_ADC_Sensor_Display_on_LCD\ADC_Sensor_Display.uvproj
+Project File Date:  04/01/2014
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+main.c(164): warning:  #61-D: integer operation result is out of range
+main.c(164): warning:  #68-D: integer conversion resulted in a change of sign
+main.c(628): warning:  #177-D: variable "Temp" was declared but never referenced
+main.c(628): warning:  #177-D: variable "setVar" was declared but never referenced
+linking...
+Program Size: Code=15888 RO-data=176 RW-data=12 ZI-data=1292  
+FromELF: creating hex file...
+User command #1: fromelf --bin ./ADC_Sensor_Display.axf -o ./ADC_Sensor_Display.bin
+"ADC_Sensor_Display.axf" - 0 Error(s), 4 Warning(s).

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Temperature Regulator</title>
+  	<meta charset="UTF-8">
+  	<!-- Bootstrap core CSS -->
+    <link href="bootstrap-3.1.1-dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="cover.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+    <div class="site-wrapper">
+      <div class="site-wrapper-inner">
+        <div class="cover-container">
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">Greenhouse Temperature Regulator</h3>
+              <ul class="nav masthead-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <!-- li><a href="#">Features</a></li-->
+                <li><a href="#">Contact</a></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="inner cover">
+            <h1 class="cover-heading">Control the temperature in your greenhouses easily!</h1>
+            <p class="lead"></p>
+          </div>
+          <div class="inner cover" style="width:400px; margin:auto">
+            <p class="lead">
+            	<!-- input for shade threshold -->
+              <div class="input-group">
+							  <span class="input-group-addon" style="width:250px">Threshold temperature for shade</span>
+							  <input id="threshold1" name="threshold1" type="text" class="form-control">
+							</div><br/>
+
+							<!-- input for fan threshold -->
+              <div class="input-group">
+							  <span class="input-group-addon" style="width:250px">Threshold temperature for fan</span>
+							  <input id="threshold2" name="threshold2" type="text" class="form-control">
+							</div><br/>
+
+							<!-- input for temperature buffer -->
+              <div class="input-group">
+							  <span class="input-group-addon" style="width:250px">Tempreature Buffer</span>
+							  <input id="tbuff" name="tbuff" type="text" class="form-control">
+							</div><br/>
+            	
+              <!-- submit button -->
+              <button type="submit" class="btn btn-primary btn-lg" onclick="GO({'keyCode': '13'})">Submit</button>
+            </p>
+          </div>
+          <br/>
+          <div id="output">
+          </div>
+
+          <div class="mastfoot">
+            <div class="inner">
+              <p>Developed by:
+              	<a href="http://www.cse.iitb.ac.in/~kanishkparihar">Kanishk Parihar</a>,
+              	<a href="http://www.cse.iitb.ac.in/~kanishkparihar">Sameer Agrawal</a>,
+              	<a href="http://www.cse.iitb.ac.in/~kanishkparihar">Aditya Bhandari</a>,
+              	<a href="http://www.cse.iitb.ac.in/~kanishkparihar">Akshay Gaikwad</a>.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  <body>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="bootstrap-3.1.1-dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" >
+  		function GO(e) {
+        /*
+          When submit is clicked, we get all inputs and sent it to the server via
+          AJAX to process.
+          The main thing to note here, is that the server itself is also running
+          at the same url as the clientside html file!
+        */
+        if (e.keyCode == 13) {
+          $("#output").html("<pre>. . .</pre>");
+          var threshold1 = $('#threshold1').val();
+          var threshold2 = $('#threshold2').val();
+          var tbuff = $('#tbuff').val();
+
+          var url = "erts_client.html";
+          var data = {'threshold1': threshold1, 'threshold2': threshold2, 'tbuff': tbuff};
+          $.post(url, data)
+            .done(function(response) {
+              /*
+                The response is then shown in the output div
+              */
+              $("#output").html("<pre>" + response + "</pre>");
+            });
+        }
+  		}
+  	</script>
+</html>

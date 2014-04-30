@@ -1,0 +1,55 @@
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\study\Sem8\cs308\Project\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\study\Sem8\cs308\Project\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\study\Sem8\cs308\Project\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+D:\study\Sem8\cs308\Project\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+D:\study\Sem8\cs308\Project\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+D:\study\Sem8\cs308\Project\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+D:\study\Sem8\cs308\Project\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+D:\study\Sem8\cs308\Project\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+D:\study\Sem8\cs308\Project\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+D:\study\Sem8\cs308\Project\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+D:\study\Sem8\cs308\Project\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+D:\New folder\main\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\New folder\main\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\New folder\main\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+D:\New folder\main\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+D:\New folder\main\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+D:\New folder\main\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+D:\New folder\main\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+D:\New folder\main\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+D:\New folder\main\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+D:\New folder\main\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+D:\New folder\main\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb

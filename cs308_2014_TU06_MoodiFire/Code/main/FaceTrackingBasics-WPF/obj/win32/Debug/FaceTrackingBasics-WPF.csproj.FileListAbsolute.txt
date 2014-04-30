@@ -1,0 +1,115 @@
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.exe.config
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.exe
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.pdb
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.baml
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.g.cs
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.cache
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.lref
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.g.resources
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.exe
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.pdb
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.exe.config
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.exe
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.pdb
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackData.dll
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackLib.dll
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.exe
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.pdb
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csprojResolveAssemblyReference.cache
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.baml
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.g.cs
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.g.cs
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\obj\Win32\Debug\App.g.cs
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.cache
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.lref
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.baml
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.g.resources
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+D:\study\Sem8\cs308\Project\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csproj.GenerateResource.Cache
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.exe.config
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.exe
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.pdb
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackData.dll
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackLib.dll
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.exe
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.pdb
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csprojResolveAssemblyReference.cache
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.baml
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.g.cs
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.g.cs
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\obj\Win32\Debug\App.g.cs
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.cache
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.lref
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.baml
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.g.resources
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+D:\study\Sem8\cs308\Project\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csproj.GenerateResource.Cache
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.exe.config
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.exe
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.pdb
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackData.dll
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackLib.dll
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.exe
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.pdb
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csprojResolveAssemblyReference.cache
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.baml
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.g.cs
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.g.cs
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\obj\Win32\Debug\App.g.cs
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.cache
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.lref
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.baml
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.g.resources
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+D:\study\Sem8\cs308\Project\Editable\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csproj.GenerateResource.Cache
+D:\New folder\main\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.exe.config
+D:\New folder\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.exe
+D:\New folder\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.pdb
+D:\New folder\main\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackData.dll
+D:\New folder\main\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackLib.dll
+D:\New folder\main\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.exe
+D:\New folder\main\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.pdb
+D:\New folder\main\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+D:\New folder\main\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+D:\New folder\main\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+D:\New folder\main\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\New folder\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csprojResolveAssemblyReference.cache
+D:\New folder\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.baml
+D:\New folder\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.g.cs
+D:\New folder\main\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.g.cs
+D:\New folder\main\FaceTrackingBasics-WPF\obj\Win32\Debug\App.g.cs
+D:\New folder\main\FaceTrackingBasics-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+D:\New folder\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.cache
+D:\New folder\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.lref
+D:\New folder\main\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.baml
+D:\New folder\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.g.resources
+D:\New folder\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+D:\New folder\main\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.csproj.GenerateResource.Cache

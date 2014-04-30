@@ -1,0 +1,21 @@
+*** Creating Trace Output File 'automatic_driving.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"lcd.o"'
+### List of Objects: adding '"main.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "startup.o" "lcd.o" "main.o" --strict --scatter "automatic_driving.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\automatic_driving.map" -o "automatic_driving.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'automatic_driving.axf'
+### ADS-LD Command File: 'automatic_driving.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'automatic_driving.lnp', Handle=0x0000022C
+### Writing '.lnp' file
+### ADS-LD Command file 'automatic_driving.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

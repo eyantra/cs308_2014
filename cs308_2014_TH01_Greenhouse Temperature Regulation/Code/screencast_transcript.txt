@@ -1,0 +1,37 @@
+Hi, this is a screencast for ERTS project - Greenhouse Temperature Regulation. Our team name is Proxymorons and team code is TH-1.
+The team members are Aditya Bhandari, Akshay Gaikwad, Kanishk Parihar and myself Sameer Kumar Agrawal.
+
+I will first discuss the software setup for our project on Windows 7 or 8.
+The first is Keil uvision4. This is the IDE to be used for building the target file for FB5 ARM. To install just run the setup file.
+Next is python-2.7.6. This is used to setup the web server for taking inputs from the user.
+Next is pyserial-2.7.win32. This is used for serial communication. It communicates the inputs from the python server to FB5 using XBEE Modules.
+The last one is X-CTU. It will be used to configure your XBEE modules.
+Just run all the setup files and install them.
+
+Now first configure your XBEE modules using X-CTU.
+Attach 1st XBEE to your PC using XBEE USB Module and 2nd XBEE to a different PC and then open X-CTU on both PCs.
+Here you see which COM Port is being used by XBEE.
+Now under Modem Configuration, click on Read. You will see the XBEE details.
+Make sure the following things:
+	1)Pan ID is same on both the XBEEs. If not edit them and make them identical.
+	2)Also, make one's destination address equal to the other's serial number and the other's destination address to its serial number.
+Under terminal tab, type anything and you can see them being received at the other terminal.
+Now close COM Port and mount the 2nd XBEE to your FB5. Your XBEE Communications setup are now done.
+ 
+Now lets look at the actual code. This is the zipped file you may have received.
+It has two foldes, one for the FB5 bot and other for the PC.
+To setup the FB5 code. Just open this project file in uvision. Press F7 to build the target file. Copy this Binary file to the FB5 bot.
+
+Lets setup the web server for user interface which will provide temperature parameters to the bot.
+Make sure that one XBEE is connected to your PC and the other to FB5. Make note of the COM Port being used bu your PC.
+Now open this server file. See this number. Its related to the COM Port number being used by your XBEE.
+If the COM Port as seen in X-CTU is 'Z', you will write 'Z-1' here.
+
+Now press F5 and you will see the server starting and this webpage will be opened. Now your web server has been setup.
+You can try accessing this webpage from some different PC using your ip address. Use this interface to give the temperature parameters to the bot.
+
+Everything is setup and you are good to go.
+
+Thank You
+
+

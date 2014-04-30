@@ -1,0 +1,24 @@
+Tyler Screencast
+================
+
+Hi,
+
+Myself Anil and in this screencast I am going to show you how to setup Tyler.
+
+Tyler is a proof of concept implementation of what we imagine stores to be in the future.
+Stores using Tyler are manned by bots which act like sales persons. We use a set of overhead cameras to track movement of people
+and automatically move bots around based on this. When customer engages the bot, he talks to a person
+who is sitting remotely at a call center. This gives many benefits like reduction in manpower needed, flexibility of work
+location, etc.
+
+Tyler consists of broadly three parts, the bot, the host and the remote.
+
+Let us start with the bot code, the bot code is in FB5_ARM folder. You can simply copy the bin file to Firebird.
+The project can be opened in Kiel. <Show the file in finder>
+
+Now let us start the host. The host consists of two parts, the tracker algorithm used to track the people in the store and the bot.
+<Type and Explain Setting up tracker>
+
+<Type and Explain Setting up client>
+
+<Type and Explain Setting up remote>

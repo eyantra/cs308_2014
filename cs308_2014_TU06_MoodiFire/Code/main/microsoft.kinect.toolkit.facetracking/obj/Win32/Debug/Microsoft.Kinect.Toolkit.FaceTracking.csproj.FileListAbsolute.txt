@@ -1,0 +1,26 @@
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Debug\FaceTrackData.dll
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\RAM\Desktop\New folder (3)\faceTrack\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Debug\Microsoft.Kinect.Toolkit.FaceTracking.csprojResolveAssemblyReference.cache
+D:\study\Sem8\cs308\Project\microsoft.kinect.toolkit.facetracking\bin\x86\Debug\FaceTrackData.dll
+D:\study\Sem8\cs308\Project\microsoft.kinect.toolkit.facetracking\bin\x86\Debug\FaceTrackLib.dll
+D:\study\Sem8\cs308\Project\microsoft.kinect.toolkit.facetracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+D:\study\Sem8\cs308\Project\microsoft.kinect.toolkit.facetracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+D:\study\Sem8\cs308\Project\microsoft.kinect.toolkit.facetracking\obj\Win32\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+D:\study\Sem8\cs308\Project\microsoft.kinect.toolkit.facetracking\obj\Win32\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Debug\FaceTrackData.dll
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Debug\FaceTrackLib.dll
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Debug\FaceTrackData.dll
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Debug\FaceTrackLib.dll
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+D:\study\Sem8\cs308\Project\Editable\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+D:\study\Sem8\cs308\Project\main\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Debug\Microsoft.Kinect.Toolkit.FaceTracking.csprojResolveAssemblyReference.cache

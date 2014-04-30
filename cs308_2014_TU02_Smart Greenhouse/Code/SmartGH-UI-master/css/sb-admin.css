@@ -1,0 +1,110 @@
+/* Global Styles */
+
+/* ------------------------------- */
+
+body {
+    background-color: #f8f8f8;
+}
+
+.page-header {
+    margin-top: 16px;
+}
+
+.table {
+    margin-bottom: 0px;
+}
+
+.list-group {
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.slide-box {
+    width: 16px;
+    border: none;
+}
+
+.ui-widget-header {
+    background:#f00;
+}
+
+.navbar-btn {
+    margin-right: 12px;
+}
+
+/* Wrappers */
+
+/* ------------------------------- */
+
+#wrapper {
+    width: 100%;
+}
+
+#page-wrapper {
+    padding: 0 15px;
+    min-height: 568px;
+    background-color: #fff;
+}
+
+#video-feed-area {
+    width: 100%;
+}
+
+#sensor-readings-table th, #sensor-readings-table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.progress-bar span {
+    font-weight: bold;
+}
+
+/* Buttons */
+
+/* ------------------------------- */
+
+.btn-outline {
+    color: inherit;
+    background-color: transparent;
+    transition: all .5s;
+}
+
+.btn-primary.btn-outline {
+    color: #428bca;
+}
+
+.btn-success.btn-outline {
+    color: #5cb85c;
+}
+
+.btn-info.btn-outline {
+    color: #5bc0de;
+}
+
+.btn-warning.btn-outline {
+    color: #f0ad4e;
+}
+
+.btn-danger.btn-outline {
+    color: #d9534f;
+}
+
+.btn-primary.btn-outline:hover,
+.btn-success.btn-outline:hover,
+.btn-info.btn-outline:hover,
+.btn-warning.btn-outline:hover,
+.btn-danger.btn-outline:hover {
+    color: #fff;
+}
+
+/* ------------------------------- */
+
+/* Login Page */
+
+ .login-panel {
+    margin-top: 25%;
+}
+
+.show-grid {
+    margin: 15px 0;
+}
