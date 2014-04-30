@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Dance Moves", "Dance Moves\Dance Moves.cproj", "{6CAB89F0-4582-4453-B907-C4070C8D8CF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CAB89F0-4582-4453-B907-C4070C8D8CF2}.Debug|AVR.ActiveCfg = Debug|AVR
+		{6CAB89F0-4582-4453-B907-C4070C8D8CF2}.Debug|AVR.Build.0 = Debug|AVR
+		{6CAB89F0-4582-4453-B907-C4070C8D8CF2}.Release|AVR.ActiveCfg = Release|AVR
+		{6CAB89F0-4582-4453-B907-C4070C8D8CF2}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
